@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me noahlanglois@hotmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can speedrun the minesweeper in 23sec
+- ⚡ Fun fact: I can speedrun the minesweeper in 21sec
